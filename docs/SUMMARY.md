@@ -10,11 +10,6 @@
 * [Role management](roles/role-management.md)
 * [Autoroles and delayed autoroles](roles/autoroles.md)
 
-## Logging
-
-* [Logging](logging/logging.md)
-* [Modlogs](logging/modlogs.md)
-* [Welcome and leave messages](logging/welcome-messages.md)
 
 ## Moderation
 
